@@ -3,3 +3,4 @@ payload:
 - DOMAIN-SUFFIX,time.windows.com
 - DOMAIN-SUFFIX,chdao.com.cn
 - DOMAIN-SUFFIX,饭太硬.net
+- IP-CIDR,170.106.169.43/32
